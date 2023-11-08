@@ -5,7 +5,7 @@ Food delivery website with an admin dashboard, which we have developed for a web
 Programming languages used-
      *HTML
      *CSS
-     *SCSS
+     *JS
      *PHP
      *MySql
 
